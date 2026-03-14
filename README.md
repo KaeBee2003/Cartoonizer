@@ -1,5 +1,9 @@
 # Cartoonizer
 
+<p align="center">
+  <img width="625" height="213" alt="Cartoonizer Graphics" src="https://github.com/user-attachments/assets/57691de2-a858-4594-a7dc-72d6ffb552b2">
+</p>
+
 ## Before & After
 
 <p align="center">
